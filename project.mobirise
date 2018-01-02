@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MiTa",
-    "currentPage": "page6.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
     "uniqCompNum": 80,
     "versionPublish": "4.4.1",
     "path": "@PROJECT_PATH@",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-111545196-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-111545196-1');\r\n</script>\r\n",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-111815260-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-111815260-1');\r\n</script>\r\n\r\n",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "screenshot": "screenshot.png"
   },
@@ -3400,7 +3400,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/screenshot-20180102-175421-1-1440x2560.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -3434,7 +3434,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/20171222-131933-2000x3555.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
